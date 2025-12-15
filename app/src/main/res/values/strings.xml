@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Info</string>
+    <string name="Vhod">Вход</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="vhod2">Войти</string>
+</resources>
